@@ -1,0 +1,6 @@
+I did a LOT of changess for Lucee and MySQL
+I had to add cache in lucee admin. I used Ram cache wirh the name stats
+
+I also commented out the onError funtion in Applicatrion.cfc
+
+I also use XAMPP on Windows, which has apache and phpmysql, which I used to convert the mysql database from latin1 to unicode.
